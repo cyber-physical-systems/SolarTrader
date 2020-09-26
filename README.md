@@ -1,6 +1,6 @@
 # SolarTrader
 
-SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants.
+## SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants.
 
 Yuzhou Feng, Qi Li, Dong Chen, and Raju Rangaswami.
 
