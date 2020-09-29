@@ -12,7 +12,7 @@ To address these problems, we design a new solar energy trading system - SolarTr
 
 <div align="center"> 
     <img src="images/MAS.png">
-    <p>e overview of the multi-agent deep reinforcement learning process in SolarTrader.</p>
+    <p>The overview of the multi-agent deep reinforcement learning process in SolarTrader.</p>
 </div>
 
 #### [Project Website](https://cps.cs.fiu.edu/projects/solartrader-project/)
